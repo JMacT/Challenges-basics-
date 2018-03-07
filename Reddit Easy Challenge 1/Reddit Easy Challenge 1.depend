@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520451746 source:c:\users\jesset\documents\new folder\reddit easy challenge 1\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+

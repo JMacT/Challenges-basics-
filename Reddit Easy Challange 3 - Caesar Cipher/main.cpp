@@ -23,7 +23,7 @@ void caesar_Cipher(char*, int, int);
 
 
 
-int main()
+int main ( )
 {
 
     int cipher_Val = 12; //How many chars do you want to shift by?
@@ -64,6 +64,6 @@ void fixStr(char *source,char *dest){
             i=100;
         };
     };
-    cout << endl << "this is the test of source+1: " << (source+2) << endl;
+    cout << endl << "this is the test of (source+1)+1: " << ((source+1)+1) << endl;
 };
 

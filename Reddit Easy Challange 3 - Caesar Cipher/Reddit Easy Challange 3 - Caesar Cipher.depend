@@ -3,6 +3,7 @@
 	<iostream>
 	<string>
 	<stdio.h>
+<<<<<<< HEAD
 
 1520548655 
 
@@ -11,3 +12,11 @@
 	<string>
 	<stdio.h>
 
+=======
+
+1520624617 source:c:\users\jesset\documents\github\challenges-basics-\reddit easy challange 3 - caesar cipher\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+
+>>>>>>> ddd1a2d6037ab40cfc8f0871be0e970f0480ed20

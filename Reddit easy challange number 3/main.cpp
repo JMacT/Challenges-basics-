@@ -26,7 +26,7 @@ void caesar_Cipher(char*, int, int);
 int main()
 {
 
-    int cipher_Val = 12; //How many chars do you want to shift by?
+    int cipher_Val = 1; //How many chars do you want to shift by?
     char TEMP[100];
     //this holds the string in an array format for crawling later.
     char new_String[100];
